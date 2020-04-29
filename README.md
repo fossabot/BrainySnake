@@ -2,6 +2,7 @@
 
 # BrainySnake
 ![brainySnakePic](/Dokumentation/brainySnake.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgmatuz%2FBrainySnake.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgmatuz%2FBrainySnake?ref=badge_shield)
 
 BrainySnake is a game based on the all time classic game "Snake".
  In BrainySnake you don't actively control your snake but instead program its behaviour so it follows certain patterns.
@@ -62,3 +63,7 @@ To get used to the movements of the snakes you can use the arrow keys on your ke
 
 ## Want to contribute?
 See the [contribution guide](https://github.com/adessoAG/BrainySnake/blob/master/CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgmatuz%2FBrainySnake.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgmatuz%2FBrainySnake?ref=badge_large)
